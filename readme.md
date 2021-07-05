@@ -27,3 +27,4 @@ Disclaimer: this project was made using both [Agusk's work] and [CWC's Music Sto
 [Agusk's work]: https://github.com/agusk/crud-mysql-cpp
 [CWC's Music Store]: https://www.codewithc.com/music-store-management-system-c-program-with-mysql-database/
 
+# Don't worry about License coz I'm pro FOSS/FLOSS. So enjoy ;D
